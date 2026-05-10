@@ -3,7 +3,7 @@
 ![Security](https://img.shields.io/badge/Category-Cybersecurity-blue)
 ![Purpose](https://img.shields.io/badge/Purpose-Education%20%26%20Awareness-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Year](https://img.shields.io/badge/Year-2025-lightgrey)
+![Year](https://img.shields.io/badge/Year-2026-lightgrey)
 
 > A professional phishing email analysis and employee awareness project — built like a real security analyst would approach it.
 
